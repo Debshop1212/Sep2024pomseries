@@ -1,0 +1,4 @@
+com\qa\opencart\tests\LoginPageTest.class
+com\qa\opencart\tests\ProductInfoPageTest.class
+com\qa\opencart\basetest\BaseTest.class
+com\qa\opencart\tests\HomePageTest.class
